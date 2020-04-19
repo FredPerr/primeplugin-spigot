@@ -1,0 +1,6 @@
+name: Prime
+version: v0.1
+author: FredPerr
+main: ca.fredperr.pluginprime.Prime
+debped: [Bible]
+loadbefore: [Bible]
